@@ -1,7 +1,11 @@
 # print("Hello World")
 <h2 align="center">Hi 👋, I'm Swetank (aka TheBrainlyProgrammer)</h1>
 # 💫 About Me:
-- 🚀 Interested in Science and Technology**<br><br>- 🌱 I’m currently learning **how to play chess ♟️**<br><br>- 🔭 Curiosity **overloaded**<br><br>- 😄 Pronouns: He/Him<br>  <br>- ⚡ Fun fact: **A number 23 is a mysterious number for me :D**
+- 🚀 Interested in Science and Technology <br><br>
+- 🌱 I’m currently learning how to play chess ♟ <br><br>
+- 🔭 Curiosity overloaded <br><br>
+- 😄 Pronouns: He/Him <br><br>
+- ⚡ Fun fact: A number 23 is a mysterious number for me :D
 
 
 ## 🌐 Socials:
