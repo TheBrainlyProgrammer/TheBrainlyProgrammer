@@ -1,6 +1,9 @@
 # print("Hello World")
 <h2 align="center">Hi 👋, I'm Swetank (aka TheBrainlyProgrammer)</h1>
+
 # 💫 About Me:
+- 🎓 Student at IIT(BHU) VARANASI
+- 📑 Pursuing Electronics Engineering 
 - 🚀 Interested in Science and Technology <br><br>
 - 🌱 I’m currently learning how to play chess ♟ <br><br>
 - 🔭 Curiosity overloaded <br><br>
