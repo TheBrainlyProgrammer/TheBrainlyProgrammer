@@ -2,13 +2,16 @@
 <h2 align="center">Hi 👋, I'm Swetank (aka TheBrainlyProgrammer)</h1>
 
 # 💫 About Me:
-- 🎓 Student at IIT(BHU) VARANASI
-- 📑 Pursuing Electronics Engineering 
+- 🎓 Student at IIT(BHU) VARANASI<br><br>
+- 📑 Pursuing 4 year Btech course in Electronics Engineering. <br><br>
 - 🚀 Interested in Science and Technology <br><br>
 - 🌱 I’m currently learning how to play chess ♟ <br><br>
 - 🔭 Curiosity overloaded <br><br>
 - 😄 Pronouns: He/Him <br><br>
 - ⚡ Fun fact: A number 23 is a mysterious number for me :D
+- 🔭 Apart from these, I'm also exploring Competitive Programming.
+- ⚡ Being curious, I have a lots of to do list to do...
+- And...I'd love to meet someone who is same position as me or maybe more experienced than me. Feel free to reach me out anytime :D
 
 
 ## 🌐 Socials:
