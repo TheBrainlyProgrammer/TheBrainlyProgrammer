@@ -8,10 +8,10 @@
 - 🌱 I’m currently learning how to play chess ♟ <br><br>
 - 🔭 Curiosity overloaded <br><br>
 - 😄 Pronouns: He/Him <br><br>
-- ⚡ Fun fact: A number 23 is a mysterious number for me :D
-- 🔭 Apart from these, I'm also exploring Competitive Programming.
-- ⚡ Being curious, I have a lots of to do list to do...
-- And...I'd love to meet someone who is same position as me or maybe more experienced than me. Feel free to reach me out anytime :D
+- ⚡ Fun fact: A number 23 is a mysterious number for me :D<br><br>
+- 🔭 Apart from these, I'm also exploring Competitive Programming.<br><br>
+- ⚡ Being curious, I have a lots of to do list to do...<br><br> 
+- And...I'd love to meet someone who is same position as me or maybe more experienced than me. Feel free to reach me out anytime :D<br><br>
 
 
 ## 🌐 Socials:
