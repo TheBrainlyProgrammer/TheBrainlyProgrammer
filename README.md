@@ -1,3 +1,4 @@
+[![Profile visits](https://visitcount.itsvg.in/api?id=TheBrainlyProgrammer&icon=10&color=13)](https://visitcount.itsvg.in)
 # print("Hello World")
 <h2 align="center">Hi 👋, I'm Swetank (aka TheBrainlyProgrammer)</h1>
 
@@ -37,4 +38,3 @@ And...I'd love to meet someone who is same position as me or maybe more experien
 ![](https://github-contributor-stats.vercel.app/api?username=TheBrainlyProgrammer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TheBrainlyProgrammer&icon=10&color=13)](https://visitcount.itsvg.in)
