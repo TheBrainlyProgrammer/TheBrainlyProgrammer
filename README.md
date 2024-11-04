@@ -21,24 +21,31 @@ And...I'd love to meet someone who is same position as me or maybe more experien
 </div>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz.swetank_23) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20127594) 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1211212970961403924)
-
-
 ## 💻 Language:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+## 💻 Competetive Programming:
+<a href="https://www.leetcode.com/random_coder0023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="random_coder0023" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/thehappycoder001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thehappycoder001" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/thehappycoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thehappycoder" height="30" width="40" /></a>
+
+
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheBrainlyProgrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TheBrainlyProgrammer&theme=dark&hide_border=true)<br/>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Random_coder0023?theme=dark&ext=heatmap) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBrainlyProgrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebrainlyprogrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="thebrainlyprogrammer" /></p><br><br><br><br><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TheBrainlyProgrammer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz.swetank_23) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20127594) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1211212970961403924)
+
 
 ---
