@@ -10,7 +10,7 @@
 🎓 Student at IIT(BHU) VARANASI<br><br>
 📑 Pursuing 4 year Btech course in Electronics Engineering. <br><br>
 🚀 Interested in Science and Technology <br><br>
-🌱 I’m currently learning how to play chess ♟ <br><br>1
+🌱 I’m currently learning how to play chess ♟ <br><br>
 🔭 Curiosity overloaded <br><br>
 😄 Pronouns: He/Him <br><br>
 ⚡ Fun fact: A number 23 is a mysterious number for me :D<br><br>
