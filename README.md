@@ -10,7 +10,7 @@
 🎓 Student at IIT(BHU) VARANASI<br><br>
 📑 Pursuing 4 year Btech course in Electronics Engineering. <br><br>
 🚀 Interested in Science and Technology <br><br>
-🌱 I’m currently learning how to play chess ♟ <br><br>
+🌱 I’m currently learning how to play chess ♟ <br><br>1
 🔭 Curiosity overloaded <br><br>
 😄 Pronouns: He/Him <br><br>
 ⚡ Fun fact: A number 23 is a mysterious number for me :D<br><br>
@@ -25,6 +25,8 @@ And...I'd love to meet someone who is same position as me or maybe more experien
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz.swetank_23) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20127594) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1211212970961403924)
+
+
 ## 💻 Language:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ## 📊 GitHub Stats:
