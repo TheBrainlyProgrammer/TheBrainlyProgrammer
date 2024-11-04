@@ -1,6 +1,8 @@
 [![Profile visits](https://visitcount.itsvg.in/api?id=TheBrainlyProgrammer&icon=10&color=13)](https://visitcount.itsvg.in)
-# print("Hello World")
-<h2 align="center">Hi 👋, I'm Swetank (aka TheBrainlyProgrammer)</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=print(Hello+There!+👋);+I'm+Swetank!;Student+at+IIT(BHU)+Varanasi;+Coding+Enthusiast;Also+interested+in+Robotics"; />
+</h1>
 
 # 💫 About Me:
 <div align="center">
