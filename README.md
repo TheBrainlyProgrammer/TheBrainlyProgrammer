@@ -1,7 +1,7 @@
 [![Profile visits](https://visitcount.itsvg.in/api?id=TheBrainlyProgrammer&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Monolisa&size=40&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=print(Hello+There!+👋);+I'm+Swetank!;Student+at+IIT(BHU)+Varanasi;+Coding+Enthusiast;Also+interested+in+Robotics"; />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Monolisa&size=40&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=print('Hello+There!+👋');+I'm+Swetank!;Student+at+IIT(BHU)+Varanasi;+Coding+Enthusiast;Also+interested+in+Robotics"; />
 </h1>
 
 ## 💫 About Me:
