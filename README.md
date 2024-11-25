@@ -34,9 +34,6 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Random_coder0023?theme=dark&ext=heatmap) <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebrainlyprogrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="thebrainlyprogrammer" /></p><br><br><br><br><br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TheBrainlyProgrammer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -45,5 +42,6 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20127594) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1211212970961403924)
 
-
 ---
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
