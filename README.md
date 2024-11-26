@@ -32,7 +32,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheBrainlyProgrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TheBrainlyProgrammer&theme=dark&hide_border=true)<br/>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Random_coder0023?theme=dark&ext=heatmap) <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebrainlyprogrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="thebrainlyprogrammer" /></p><br><br><br><br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebrainlyprogrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="thebrainlyprogrammer" /><br><br><br><br><br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TheBrainlyProgrammer&limit=5&theme=dark&combine_all_yearly_contributions=true)
