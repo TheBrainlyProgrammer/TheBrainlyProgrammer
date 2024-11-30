@@ -23,17 +23,18 @@
 ## 💻 Competetive Programming:
 <a href="https://www.leetcode.com/random_coder0023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="random_coder0023" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/thehappycoder001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thehappycoder001" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/thehappycoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thehappycoder" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/thehappycoder" target="blank"><img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=TheHappyCoder&theme=dark" alt="thehappycoder" height="30" width="40" /></a>
 
 ## 🧰Tools and Technologies:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheBrainlyProgrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TheBrainlyProgrammer&theme=dark&hide_border=true)<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebrainlyprogrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="thebrainlyprogrammer" /> <br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheBrainlyProgrammer&theme=dark&include_all_commits=true&count_private=true)<br/>
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TheBrainlyProgrammer&theme=dark)<br/>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Random_coder0023?theme=dark&ext=heatmap) <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebrainlyprogrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="thebrainlyprogrammer" /><br><br><br><br><br>
-
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=TheHappyCoder&theme=dark)
+<br>
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TheBrainlyProgrammer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br><br>
