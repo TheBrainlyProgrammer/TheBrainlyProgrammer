@@ -34,13 +34,17 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Random_coder0023?theme=dark&ext=heatmap) <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebrainlyprogrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="thebrainlyprogrammer" /><br><br><br><br><br>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TheBrainlyProgrammer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br><br>
 
+## 🌐 Random Quotes by Developers
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+<br>
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz.swetank_23) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20127594) 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1211212970961403924)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itz.swetank_23) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20127594) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=Blue)](https://discordapp.com/users/1211212970961403924)
 
 ---
 ## 📄 License
