@@ -32,7 +32,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebrainlyprogrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" alt="thebrainlyprogrammer" /> <br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheBrainlyProgrammer&theme=dark&include_all_commits=true&count_private=true)<br/>
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TheBrainlyProgrammer&theme=dark)<br/>
-![Leetcode Stats](https://leetcard.jacoblin.cool/Random_coder0023?theme=dark&ext=heatmap) <br/>
+![Leetcode Stats](https://leetcard.jacoblin.cool/not_yet_decoded?theme=dark&ext=heatmap) <br/>
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=TheHappyCoder&theme=dark)
 <be>
 ## 🔝 Top Contributed Repo
